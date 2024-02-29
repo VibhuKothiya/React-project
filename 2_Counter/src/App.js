@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <Counter duration={8 * 24 * 60 * 60 * 1000} />
+    // <Counter duration={8 * 24 * 60 * 60 * 1000} />
   );
 }
 
