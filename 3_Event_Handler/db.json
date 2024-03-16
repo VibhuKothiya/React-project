@@ -1,15 +1,8 @@
 {
   "products": [
     {
-      "id": "101",
-      "Name": "Abacavir",
-      "quantity": 25,
-      "price": 150,
-      "expiry": 2022
-    },
-    {
       "id": "102",
-      "Name": "Eltrombopag",
+      "Name": "paracetamol",
       "quantity": 90,
       "price": 550,
       "expiry": 2021
@@ -29,19 +22,11 @@
       "expiry": 2023
     },
     {
-      "id": "105",
-      "Name": "Phenytoin",
-      "quantity": 63,
-      "price": 250,
-      "expiry": 2021
-    },
-    
-    {
-      "id": "4c06",
-      "Name": "Paracitamol",
+      "id": "d0b8",
+      "Name": "Abacavir",
       "expiry": "2025",
-      "price": "123",
-      "quantity": "9"
+      "price": "200",
+      "quantity": "33"
     }
   ]
 }
