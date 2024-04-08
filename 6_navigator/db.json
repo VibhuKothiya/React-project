@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "09e7",
+      "name": "vibhuti",
+      "email": "uniquefashionworld01@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2dcb",
+      "name": "vibhuti",
+      "email": "uniquefashionworld01@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4502",
+      "name": "Yashika",
+      "email": "vibhuti.kothiya@gmail.com",
+      "password": "56789"
+    }
+    
+  ]
+}
